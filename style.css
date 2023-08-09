@@ -87,3 +87,69 @@ img {
     width: 300px;
   }
 }
+
+@media only screen and (max-width: 743px) {
+  .container {
+    flex-direction: column;
+  }
+  section {
+    margin-left: 0;
+  }
+  p {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  button {
+    position: absolute;
+    left: 40%;
+  }
+  img {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 379px) {
+  .container {
+    flex-direction: column;
+  }
+  section {
+    margin-left: 0;
+  }
+  p {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  button {
+    position: absolute;
+    left: 25%;
+  }
+  img {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 545px) {
+  .container {
+    flex-direction: column;
+  }
+  section {
+    margin-left: 0;
+  }
+  p {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  button {
+    position: absolute;
+    left: 35%;
+  }
+  img {
+    width: 300px;
+  }
+}
