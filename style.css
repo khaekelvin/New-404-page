@@ -65,3 +65,25 @@ img {
     transform: translateY(-10px);
   }
 }
+
+@media only screen and (max-width: 375px) {
+  .container {
+    flex-direction: column;
+  }
+  section {
+    margin-left: 0;
+  }
+  p {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  button {
+    position: absolute;
+    left: 30%;
+  }
+  img {
+    width: 300px;
+  }
+}
