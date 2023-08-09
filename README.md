@@ -1,8 +1,11 @@
 # New 404 page
  Replicating a random 404 page
+
+## Reference:
+![404 page](https://github.com/khaekelvin/New-404-page/assets/130221570/eb0ecb06-9e08-469c-aa19-b02a3c5da2d8)
 ## Result:
 ### Desktop
- ![image](https://github.com/khaekelvin/New-404-page/assets/130221570/ee7db60c-a5b4-4e59-b2c8-0c2074379b5c)
+![404 desk](https://github.com/khaekelvin/New-404-page/assets/130221570/cb5d4d15-590f-4c0b-acaf-6b5f1472e39f)
 
 ### Mobile
-![image](https://github.com/khaekelvin/New-404-page/assets/130221570/e400b4cd-2aa3-41d8-93d5-ffb8b8fdb22a)
+![404 mobile](https://github.com/khaekelvin/New-404-page/assets/130221570/50fc9b96-1d7a-4b53-b8b8-2e482986da65)
